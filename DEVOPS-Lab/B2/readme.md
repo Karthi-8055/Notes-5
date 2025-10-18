@@ -62,6 +62,16 @@
 
 ---
 
-By following these steps, you'll compile, build, and deploy your Dockerized application smoothly!
+8. **Pull the Docker Image:**
+
+    
+
+     ```bash
+     docker pull docker.io/<username>/<image-id>:latest
+     ```
+
+---
+
+By following these steps, you'll compile, build, and deploy and recheck with docker pull with your Dockerized application smoothly!
 
  
