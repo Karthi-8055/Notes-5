@@ -1,1 +1,2 @@
 - https://www.cloudskillsboost.google/paths/500/course_templates/49/labs/548411
+- https://www.cloudskillsboost.google/paths/500/course_templates/648/labs/567901
